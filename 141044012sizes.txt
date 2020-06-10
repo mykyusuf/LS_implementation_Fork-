@@ -1,0 +1,534 @@
+pid:25383 -- 9216000 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/example_9216000_9567232//9000k.txt
+pid:25383 -- 6148 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/example_9216000_9567232//.DS_Store
+pid:25386 -- 0 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/example_9216000_9567232//z_101376_200704/gorilla
+pid:25384 -- 6148 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/example_9216000_9567232//z_101376_200704/.DS_Store
+pid:25387 -- Special File  /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/example_9216000_9567232//z_101376_200704/kat_99328/9000k.txt
+pid:25387 -- 99328 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/example_9216000_9567232//z_101376_200704/kat_99328/97k.txt
+pid:25387 -- 99328 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/example_9216000_9567232//z_101376_200704/kat_99328
+pid:25384 -- 101376 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/example_9216000_9567232//z_101376_200704/99k.txt
+pid:25384 -- 206852 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/example_9216000_9567232//z_101376_200704
+pid:25388 -- 45056 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/example_9216000_9567232//g_128000_150528/44k.txt
+pid:25390 -- 5120 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/example_9216000_9567232//g_128000_150528/s_0_22528/k_5120/5k.txt
+pid:25390 -- 5120 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/example_9216000_9567232//g_128000_150528/s_0_22528/k_5120
+pid:25391 -- 17408 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/example_9216000_9567232//g_128000_150528/s_0_22528/o_17408/17k.txt
+pid:25391 -- 17408 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/example_9216000_9567232//g_128000_150528/s_0_22528/o_17408
+pid:25389 -- 22528 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/example_9216000_9567232//g_128000_150528/s_0_22528
+pid:25388 -- 19456 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/example_9216000_9567232//g_128000_150528/19k.txt
+pid:25388 -- 56320 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/example_9216000_9567232//g_128000_150528/55k.txt
+pid:25388 -- 7168 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/example_9216000_9567232//g_128000_150528/7k.txt
+pid:25388 -- 150528 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/example_9216000_9567232//g_128000_150528
+pid:25383 -- 9579528 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/example_9216000_9567232/
+7 child processes created
+pid:25830 -- 6148 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A/.DS_Store
+pid:25830 -- 730810 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A/kader.jpg
+pid:25831 -- 0 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A/D
+pid:25832 -- 6148 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A/B/.DS_Store
+pid:25832 -- Special File  /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A/B/kader.jpg
+pid:25833 -- 6148 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A/B/C/.DS_Store
+pid:25833 -- 730810 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A/B/C/kader.jpg
+pid:25834 -- 0 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A/B/C/F
+pid:25833 -- 736958 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A/B/C
+pid:25832 -- 6148 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A/B
+pid:25830 -- 736958 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A
+4 child processes created
+pid:25846 -- 6148 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A/B/.DS_Store
+pid:25846 -- Special File  /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A/B/kader.jpg
+pid:25847 -- 6148 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A/B/C/.DS_Store
+pid:25847 -- 730810 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A/B/C/kader.jpg
+pid:25848 -- 0 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A/B/C/F
+pid:25847 -- 736958 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A/B/C
+pid:25846 -- 6148 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A/B
+2 child processes created
+pid:25873 -- 0 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/B
+0 child processes created
+pid:26064 -- 0 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344//Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A
+0 child processes created
+pid:26071 -- 0 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344//Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A/
+0 child processes created
+pid:26090 -- 0 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344//Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344
+0 child processes created
+pid:26300 -- 0 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344//Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/
+0 child processes created
+pid:26337 -- 0 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344//Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/
+0 child processes created
+pid:26381 -- 0 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344//Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A
+0 child processes created
+pid:26456 -- 0 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344//Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A
+0 child processes created
+pid:26917 -- 0 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344//Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A
+0 child processes created
+pid:26940 -- 6148 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A/.DS_Store
+pid:26940 -- 730810 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A/kader.jpg
+pid:26941 -- 0 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A/D
+pid:26942 -- 6148 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A/B/.DS_Store
+pid:26942 -- Special File  /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A/B/kader.jpg
+pid:26943 -- 6148 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A/B/C/.DS_Store
+pid:26943 -- 730810 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A/B/C/kader.jpg
+pid:26944 -- 0 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A/B/C/F
+pid:26943 -- 736958 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A/B/C
+pid:26942 -- 6148 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A/B
+pid:26940 -- 736958 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A
+4 child processes created
+pid:26966 -- 0 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344//Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A
+0 child processes created
+pid:26971 -- 0 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344//Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A/
+0 child processes created
+pid:27052 -- 0 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344//Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A/
+0 child processes created
+pid:27155 -- 6148 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A//.DS_Store
+pid:27155 -- 730810 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A//kader.jpg
+pid:27156 -- 0 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A//D
+pid:27157 -- 6148 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A//B/.DS_Store
+pid:27157 -- Special File  /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A//B/kader.jpg
+pid:27158 -- 6148 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A//B/C/.DS_Store
+pid:27158 -- 730810 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A//B/C/kader.jpg
+pid:27159 -- 0 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A//B/C/F
+pid:27158 -- 736958 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A//B/C
+pid:27157 -- 6148 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A//B
+pid:27155 -- 736958 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A/
+4 child processes created
+pid:27164 -- 6148 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A/.DS_Store
+pid:27164 -- 730810 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A/kader.jpg
+pid:27165 -- 0 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A/D
+pid:27166 -- 6148 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A/B/.DS_Store
+pid:27166 -- Special File  /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A/B/kader.jpg
+pid:27167 -- 6148 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A/B/C/.DS_Store
+pid:27167 -- 730810 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A/B/C/kader.jpg
+pid:27168 -- 0 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A/B/C/F
+pid:27167 -- 736958 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A/B/C
+pid:27166 -- 6148 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A/B
+pid:27164 -- 736958 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A
+4 child processes created
+pid:27186 -- 0 B -- A
+0 child processes created
+pid:27195 -- 0 B -- A/
+0 child processes created
+pid:27201 -- 6148 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344//A/.DS_Store
+pid:27201 -- 730810 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344//A/kader.jpg
+pid:27202 -- 0 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344//A/D
+pid:27203 -- 6148 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344//A/B/.DS_Store
+pid:27203 -- Special File  /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344//A/B/kader.jpg
+pid:27204 -- 6148 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344//A/B/C/.DS_Store
+pid:27204 -- 730810 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344//A/B/C/kader.jpg
+pid:27205 -- 0 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344//A/B/C/F
+pid:27204 -- 736958 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344//A/B/C
+pid:27203 -- 6148 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344//A/B
+pid:27201 -- 736958 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344//A
+4 child processes created
+pid:27219 -- 0 B -- A
+0 child processes created
+pid:27299 -- 0 B -- A
+0 child processes created
+pid:27304 -- 6148 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344//A/.DS_Store
+pid:27304 -- 730810 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344//A/kader.jpg
+pid:27305 -- 0 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344//A/D
+pid:27306 -- 6148 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344//A/B/.DS_Store
+pid:27306 -- Special File  /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344//A/B/kader.jpg
+pid:27307 -- 6148 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344//A/B/C/.DS_Store
+pid:27307 -- 730810 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344//A/B/C/kader.jpg
+pid:27308 -- 0 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344//A/B/C/F
+pid:27307 -- 736958 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344//A/B/C
+pid:27306 -- 6148 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344//A/B
+pid:27304 -- 736958 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344//A
+4 child processes created
+pid:27335 -- 0 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/B
+0 child processes created
+pid:27347 -- 0 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344//B
+0 child processes created
+pid:27352 -- 6148 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344//A/.DS_Store
+pid:27352 -- 730810 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344//A/kader.jpg
+pid:27353 -- 0 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344//A/D
+pid:27354 -- 6148 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344//A/B/.DS_Store
+pid:27354 -- Special File  /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344//A/B/kader.jpg
+pid:27355 -- 6148 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344//A/B/C/.DS_Store
+pid:27355 -- 730810 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344//A/B/C/kader.jpg
+pid:27356 -- 0 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344//A/B/C/F
+pid:27355 -- 736958 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344//A/B/C
+pid:27354 -- 6148 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344//A/B
+pid:27352 -- 736958 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344//A
+4 child processes created
+pid:27361 -- 0 B -- A
+0 child processes created
+pid:27367 -- 0 B -- A
+0 child processes created
+pid:27372 -- 6148 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344//A/.DS_Store
+pid:27372 -- 730810 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344//A/kader.jpg
+pid:27373 -- 0 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344//A/D
+pid:27374 -- 6148 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344//A/B/.DS_Store
+pid:27374 -- Special File  /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344//A/B/kader.jpg
+pid:27375 -- 6148 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344//A/B/C/.DS_Store
+pid:27375 -- 730810 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344//A/B/C/kader.jpg
+pid:27376 -- 0 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344//A/B/C/F
+pid:27375 -- 736958 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344//A/B/C
+pid:27374 -- 743106 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344//A/B
+pid:27372 -- 1480064 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344//A
+4 child processes created
+pid:27392 -- 0 B -- A
+0 child processes created
+pid:27405 -- 0 B -- A
+0 child processes created
+pid:27543 -- 0 B -- A
+0 child processes created
+pid:27566 -- 0 B -- A
+0 child processes created
+pid:27673 -- 0 B -- /A
+0 child processes created
+pid:27676 -- 0 B -- /A
+0 child processes created
+pid:27682 -- 6148 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344//A/.DS_Store
+pid:27682 -- 730810 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344//A/kader.jpg
+pid:27683 -- 0 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344//A/D
+pid:27684 -- 6148 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344//A/B/.DS_Store
+pid:27684 -- Special File  /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344//A/B/kader.jpg
+pid:27685 -- 6148 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344//A/B/C/.DS_Store
+pid:27685 -- 730810 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344//A/B/C/kader.jpg
+pid:27686 -- 0 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344//A/B/C/F
+pid:27685 -- 736958 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344//A/B/C
+pid:27684 -- 6148 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344//A/B
+pid:27682 -- 736958 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344//A
+4 child processes created
+pid:27873 -- 6148 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A/.DS_Store
+pid:27873 -- 730810 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A/kader.jpg
+pid:27874 -- 0 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A/D
+pid:27875 -- 6148 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A/B/.DS_Store
+pid:27875 -- Special File  /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A/B/kader.jpg
+pid:27876 -- 6148 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A/B/C/.DS_Store
+pid:27876 -- 730810 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A/B/C/kader.jpg
+pid:27877 -- 0 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A/B/C/F
+pid:27876 -- 736958 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A/B/C
+pid:27875 -- 6148 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A/B
+pid:27873 -- 736958 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A
+4 child processes created
+pid:27883 -- 0 B -- /A
+0 child processes created
+pid:27888 -- 6148 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A//.DS_Store
+pid:27888 -- 730810 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A//kader.jpg
+pid:27889 -- 0 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A//D
+pid:27890 -- 6148 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A//B/.DS_Store
+pid:27890 -- Special File  /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A//B/kader.jpg
+pid:27891 -- 6148 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A//B/C/.DS_Store
+pid:27891 -- 730810 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A//B/C/kader.jpg
+pid:27892 -- 0 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A//B/C/F
+pid:27891 -- 736958 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A//B/C
+pid:27890 -- 6148 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A//B
+pid:27888 -- 736958 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A/
+4 child processes created
+pid:27929 -- 0 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344//Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A
+0 child processes created
+pid:27962 -- 0 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344//Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A/
+0 child processes created
+pid:28068 -- 0 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344//Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/example_9216000_9567232/
+0 child processes created
+pid:28347 -- 0 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344//Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A/
+0 child processes created
+pid:28433 -- 0 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344//Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A/
+0 child processes created
+pid:28531 -- 6148 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A//.DS_Store
+pid:28531 -- 730810 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A//kader.jpg
+pid:28532 -- 0 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A//D
+pid:28533 -- 6148 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A//B/.DS_Store
+pid:28533 -- Special File  /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A//B/kader.jpg
+pid:28534 -- 6148 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A//B/C/.DS_Store
+pid:28534 -- 730810 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A//B/C/kader.jpg
+pid:28535 -- 0 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A//B/C/F
+pid:28534 -- 736958 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A//B/C
+pid:28533 -- 6148 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A//B
+pid:28531 -- 736958 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A/
+4 child processes created
+pid:28705 -- 6148 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A//.DS_Store
+pid:28705 -- 730810 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A//kader.jpg
+pid:28706 -- 0 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A//D
+pid:28707 -- 6148 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A//B/.DS_Store
+pid:28707 -- Special File  /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A//B/kader.jpg
+pid:28708 -- 6148 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A//B/C/.DS_Store
+pid:28708 -- 730810 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A//B/C/kader.jpg
+pid:28709 -- 0 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A//B/C/F
+pid:28708 -- 736958 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A//B/C
+pid:28707 -- 6148 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A//B
+pid:28705 -- 736958 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A/
+4 child processes created
+pid:28721 -- 0 B -- A
+0 child processes created
+pid:28725 -- 0 B -- A
+0 child processes created
+pid:29022 -- 0 B -- A
+0 child processes created
+pid:29032 -- 0 B -- /A
+0 child processes created
+pid:29200 -- 0 B -- /A
+0 child processes created
+pid:29204 -- 6148 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A/.DS_Store
+pid:29204 -- 730810 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A/kader.jpg
+pid:29205 -- 0 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A/D
+pid:29206 -- 6148 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A/B/.DS_Store
+pid:29206 -- Special File  /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A/B/kader.jpg
+pid:29207 -- 6148 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A/B/C/.DS_Store
+pid:29207 -- 730810 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A/B/C/kader.jpg
+pid:29208 -- 0 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A/B/C/F
+pid:29207 -- 736958 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A/B/C
+pid:29206 -- 6148 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A/B
+pid:29204 -- 736958 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A
+4 child processes created
+pid:29219 -- 6148 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A/B/.DS_Store
+pid:29219 -- Special File  /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A/B/kader.jpg
+pid:29220 -- 6148 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A/B/C/.DS_Store
+pid:29220 -- 730810 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A/B/C/kader.jpg
+pid:29221 -- 0 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A/B/C/F
+pid:29220 -- 736958 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A/B/C
+pid:29219 -- 6148 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A/B
+2 child processes created
+pid:29246 -- 6148 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A/.DS_Store
+pid:29246 -- 730810 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A/kader.jpg
+pid:29247 -- 0 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A/D
+pid:29248 -- 6148 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A/B/.DS_Store
+pid:29248 -- Special File  /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A/B/kader.jpg
+pid:29249 -- 6148 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A/B/C/.DS_Store
+pid:29249 -- 730810 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A/B/C/kader.jpg
+pid:29250 -- 0 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A/B/C/F
+pid:29249 -- 736958 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A/B/C
+pid:29248 -- 6148 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A/B
+pid:29246 -- 736958 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A
+4 child processes created
+pid:29255 -- 6148 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A//.DS_Store
+pid:29255 -- 730810 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A//kader.jpg
+pid:29256 -- 0 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A//D
+pid:29257 -- 6148 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A//B/.DS_Store
+pid:29257 -- Special File  /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A//B/kader.jpg
+pid:29258 -- 6148 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A//B/C/.DS_Store
+pid:29258 -- 730810 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A//B/C/kader.jpg
+pid:29259 -- 0 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A//B/C/F
+pid:29258 -- 736958 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A//B/C
+pid:29257 -- 6148 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A//B
+pid:29255 -- 736958 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A/
+4 child processes created
+pid:29265 -- 0 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/AB
+0 child processes created
+pid:29270 -- 6148 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A/B/.DS_Store
+pid:29270 -- Special File  /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A/B/kader.jpg
+pid:29271 -- 6148 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A/B/C/.DS_Store
+pid:29271 -- 730810 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A/B/C/kader.jpg
+pid:29272 -- 0 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A/B/C/F
+pid:29271 -- 736958 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A/B/C
+pid:29270 -- 6148 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A/B
+2 child processes created
+pid:29281 -- 0 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/B
+0 child processes created
+pid:29285 -- 0 B -- /B
+0 child processes created
+pid:29350 -- 6148 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A/.DS_Store
+pid:29350 -- 730810 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A/kader.jpg
+pid:29351 -- 0 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A/D
+pid:29352 -- 6148 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A/B/.DS_Store
+pid:29352 -- Special File  /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A/B/kader.jpg
+pid:29353 -- 6148 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A/B/C/.DS_Store
+pid:29353 -- 730810 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A/B/C/kader.jpg
+pid:29354 -- 0 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A/B/C/F
+pid:29353 -- 736958 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A/B/C
+pid:29352 -- 6148 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A/B
+pid:29350 -- 736958 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A
+4 child processes created
+pid:29363 -- 0 B -- /A
+0 child processes created
+pid:29368 -- 6148 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A//.DS_Store
+pid:29368 -- 730810 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A//kader.jpg
+pid:29369 -- 0 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A//D
+pid:29370 -- 6148 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A//B/.DS_Store
+pid:29370 -- Special File  /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A//B/kader.jpg
+pid:29371 -- 6148 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A//B/C/.DS_Store
+pid:29371 -- 730810 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A//B/C/kader.jpg
+pid:29372 -- 0 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A//B/C/F
+pid:29371 -- 736958 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A//B/C
+pid:29370 -- 6148 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A//B
+pid:29368 -- 736958 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A/
+4 child processes created
+pid:29377 -- 6148 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A/B/.DS_Store
+pid:29377 -- Special File  /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A/B/kader.jpg
+pid:29378 -- 6148 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A/B/C/.DS_Store
+pid:29378 -- 730810 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A/B/C/kader.jpg
+pid:29379 -- 0 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A/B/C/F
+pid:29378 -- 736958 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A/B/C
+pid:29377 -- 6148 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A/B
+2 child processes created
+pid:29387 -- 0 B -- A/B
+0 child processes created
+pid:29392 -- 0 B -- A
+0 child processes created
+pid:29449 -- 6148 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344//A/.DS_Store
+pid:29449 -- 730810 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344//A/kader.jpg
+pid:29450 -- 0 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344//A/D
+pid:29451 -- 6148 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344//A/B/.DS_Store
+pid:29451 -- Special File  /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344//A/B/kader.jpg
+pid:29452 -- 6148 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344//A/B/C/.DS_Store
+pid:29452 -- 730810 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344//A/B/C/kader.jpg
+pid:29453 -- 0 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344//A/B/C/F
+pid:29452 -- 736958 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344//A/B/C
+pid:29451 -- 743106 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344//A/B
+pid:29449 -- 1480064 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344//A
+4 child processes created
+pid:29531 -- 6148 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A/.DS_Store
+pid:29531 -- 730810 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A/kader.jpg
+pid:29532 -- 0 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A/D
+pid:29533 -- 6148 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A/B/.DS_Store
+pid:29533 -- Special File  /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A/B/kader.jpg
+pid:29534 -- 6148 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A/B/C/.DS_Store
+pid:29534 -- 730810 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A/B/C/kader.jpg
+pid:29535 -- 0 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A/B/C/F
+pid:29534 -- 736958 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A/B/C
+pid:29533 -- 743106 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A/B
+pid:29531 -- 1480064 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A
+4 child processes created
+pid:29541 -- 6148 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A/B/.DS_Store
+pid:29541 -- Special File  /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A/B/kader.jpg
+pid:29542 -- 6148 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A/B/C/.DS_Store
+pid:29542 -- 730810 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A/B/C/kader.jpg
+pid:29543 -- 0 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A/B/C/F
+pid:29542 -- 736958 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A/B/C
+pid:29541 -- 743106 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A/B
+2 child processes created
+pid:29550 -- 0 B -- /A/B
+0 child processes created
+pid:29555 -- 6148 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A/.DS_Store
+pid:29555 -- 730810 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A/kader.jpg
+pid:29556 -- 0 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A/D
+pid:29557 -- 6148 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A/B/.DS_Store
+pid:29557 -- Special File  /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A/B/kader.jpg
+pid:29558 -- 6148 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A/B/C/.DS_Store
+pid:29558 -- 730810 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A/B/C/kader.jpg
+pid:29559 -- 0 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A/B/C/F
+pid:29558 -- 736958 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A/B/C
+pid:29557 -- 743106 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A/B
+pid:29555 -- 1480064 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A
+4 child processes created
+pid:29588 -- 6148 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A/.DS_Store
+pid:29588 -- 730810 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A/kader.jpg
+pid:29589 -- 0 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A/D
+pid:29590 -- 6148 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A/B/.DS_Store
+pid:29590 -- Special File  /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A/B/kader.jpg
+pid:29591 -- 6148 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A/B/C/.DS_Store
+pid:29591 -- 730810 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A/B/C/kader.jpg
+pid:29592 -- 0 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A/B/C/F
+pid:29591 -- 736958 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A/B/C
+pid:29590 -- 743106 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A/B
+pid:29588 -- 1480064 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A
+4 child processes created
+pid:29597 -- 6148 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A/B/.DS_Store
+pid:29597 -- Special File  /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A/B/kader.jpg
+pid:29598 -- 6148 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A/B/C/.DS_Store
+pid:29598 -- 730810 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A/B/C/kader.jpg
+pid:29599 -- 0 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A/B/C/F
+pid:29598 -- 736958 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A/B/C
+pid:29597 -- 743106 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A/B
+2 child processes created
+pid:29607 -- 9216000 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/example_9216000_9567232//9000k.txt
+pid:29607 -- 6148 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/example_9216000_9567232//.DS_Store
+pid:29609 -- 0 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/example_9216000_9567232//z_101376_200704/gorilla
+pid:29608 -- 6148 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/example_9216000_9567232//z_101376_200704/.DS_Store
+pid:29610 -- Special File  /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/example_9216000_9567232//z_101376_200704/kat_99328/9000k.txt
+pid:29610 -- 99328 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/example_9216000_9567232//z_101376_200704/kat_99328/97k.txt
+pid:29610 -- 99328 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/example_9216000_9567232//z_101376_200704/kat_99328
+pid:29608 -- 101376 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/example_9216000_9567232//z_101376_200704/99k.txt
+pid:29608 -- 206852 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/example_9216000_9567232//z_101376_200704
+pid:29611 -- 45056 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/example_9216000_9567232//g_128000_150528/44k.txt
+pid:29613 -- 5120 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/example_9216000_9567232//g_128000_150528/s_0_22528/k_5120/5k.txt
+pid:29613 -- 5120 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/example_9216000_9567232//g_128000_150528/s_0_22528/k_5120
+pid:29614 -- 17408 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/example_9216000_9567232//g_128000_150528/s_0_22528/o_17408/17k.txt
+pid:29614 -- 17408 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/example_9216000_9567232//g_128000_150528/s_0_22528/o_17408
+pid:29612 -- 22528 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/example_9216000_9567232//g_128000_150528/s_0_22528
+pid:29611 -- 19456 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/example_9216000_9567232//g_128000_150528/19k.txt
+pid:29611 -- 56320 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/example_9216000_9567232//g_128000_150528/55k.txt
+pid:29611 -- 7168 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/example_9216000_9567232//g_128000_150528/7k.txt
+pid:29611 -- 150528 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/example_9216000_9567232//g_128000_150528
+pid:29607 -- 9579528 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/example_9216000_9567232/
+7 child processes created
+pid:29846 -- 6148 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A/.DS_Store
+pid:29846 -- 730810 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A/kader.jpg
+pid:29847 -- 0 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A/D
+pid:29848 -- 6148 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A/B/.DS_Store
+pid:29848 -- Special File  /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A/B/kader.jpg
+pid:29849 -- 6148 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A/B/C/.DS_Store
+pid:29849 -- 730810 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A/B/C/kader.jpg
+pid:29850 -- 0 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A/B/C/F
+pid:29849 -- 736958 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A/B/C
+pid:29848 -- 6148 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A/B
+pid:29846 -- 736958 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A
+4 child processes created
+pid:29855 -- 6148 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A/.DS_Store
+pid:29855 -- 730810 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A/kader.jpg
+pid:29856 -- 0 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A/D
+pid:29857 -- 6148 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A/B/.DS_Store
+pid:29857 -- Special File  /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A/B/kader.jpg
+pid:29858 -- 6148 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A/B/C/.DS_Store
+pid:29858 -- 730810 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A/B/C/kader.jpg
+pid:29859 -- 0 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A/B/C/F
+pid:29858 -- 736958 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A/B/C
+pid:29857 -- 743106 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A/B
+pid:29855 -- 1480064 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A
+4 child processes created
+pid:29879 -- 0 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/B
+0 child processes created
+pid:29884 -- 6148 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A/B/.DS_Store
+pid:29884 -- Special File  /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A/B/kader.jpg
+pid:29885 -- 6148 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A/B/C/.DS_Store
+pid:29885 -- 730810 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A/B/C/kader.jpg
+pid:29886 -- 0 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A/B/C/F
+pid:29885 -- 736958 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A/B/C
+pid:29884 -- 743106 B -- /Users/MacbookPro/Desktop/Sistem/141044012_HW1_CSE344/A/B
+2 child processes created
+pid:87143 -- 6148 B -- /Users/MacbookPro/Desktop/Dersler/Sistem/141044012_HW1_CSE344/A/.DS_Store
+pid:87143 -- 730810 B -- /Users/MacbookPro/Desktop/Dersler/Sistem/141044012_HW1_CSE344/A/kader.jpg
+pid:87144 -- 0 B -- /Users/MacbookPro/Desktop/Dersler/Sistem/141044012_HW1_CSE344/A/D
+pid:87145 -- 6148 B -- /Users/MacbookPro/Desktop/Dersler/Sistem/141044012_HW1_CSE344/A/B/.DS_Store
+pid:87145 -- Special File  /Users/MacbookPro/Desktop/Dersler/Sistem/141044012_HW1_CSE344/A/B/kader.jpg
+pid:87146 -- 6148 B -- /Users/MacbookPro/Desktop/Dersler/Sistem/141044012_HW1_CSE344/A/B/C/.DS_Store
+pid:87146 -- 730810 B -- /Users/MacbookPro/Desktop/Dersler/Sistem/141044012_HW1_CSE344/A/B/C/kader.jpg
+pid:87147 -- 0 B -- /Users/MacbookPro/Desktop/Dersler/Sistem/141044012_HW1_CSE344/A/B/C/F
+pid:87146 -- 736958 B -- /Users/MacbookPro/Desktop/Dersler/Sistem/141044012_HW1_CSE344/A/B/C
+pid:87145 -- 743106 B -- /Users/MacbookPro/Desktop/Dersler/Sistem/141044012_HW1_CSE344/A/B
+pid:87143 -- 1480064 B -- /Users/MacbookPro/Desktop/Dersler/Sistem/141044012_HW1_CSE344/A
+4 child processes created
+pid:87263 -- 9216000 B -- /Users/MacbookPro/Desktop/Dersler/Sistem/141044012_HW1_CSE344/example_9216000_9567232/9000k.txt
+pid:87263 -- 6148 B -- /Users/MacbookPro/Desktop/Dersler/Sistem/141044012_HW1_CSE344/example_9216000_9567232/.DS_Store
+pid:87265 -- 0 B -- /Users/MacbookPro/Desktop/Dersler/Sistem/141044012_HW1_CSE344/example_9216000_9567232/z_101376_200704/gorilla
+pid:87264 -- 6148 B -- /Users/MacbookPro/Desktop/Dersler/Sistem/141044012_HW1_CSE344/example_9216000_9567232/z_101376_200704/.DS_Store
+pid:87266 -- Special File  /Users/MacbookPro/Desktop/Dersler/Sistem/141044012_HW1_CSE344/example_9216000_9567232/z_101376_200704/kat_99328/9000k.txt
+pid:87266 -- 99328 B -- /Users/MacbookPro/Desktop/Dersler/Sistem/141044012_HW1_CSE344/example_9216000_9567232/z_101376_200704/kat_99328/97k.txt
+pid:87266 -- 99328 B -- /Users/MacbookPro/Desktop/Dersler/Sistem/141044012_HW1_CSE344/example_9216000_9567232/z_101376_200704/kat_99328
+pid:87264 -- 101376 B -- /Users/MacbookPro/Desktop/Dersler/Sistem/141044012_HW1_CSE344/example_9216000_9567232/z_101376_200704/99k.txt
+pid:87264 -- 206852 B -- /Users/MacbookPro/Desktop/Dersler/Sistem/141044012_HW1_CSE344/example_9216000_9567232/z_101376_200704
+pid:87267 -- 45056 B -- /Users/MacbookPro/Desktop/Dersler/Sistem/141044012_HW1_CSE344/example_9216000_9567232/g_128000_150528/44k.txt
+pid:87267 -- 6148 B -- /Users/MacbookPro/Desktop/Dersler/Sistem/141044012_HW1_CSE344/example_9216000_9567232/g_128000_150528/.DS_Store
+pid:87269 -- 5120 B -- /Users/MacbookPro/Desktop/Dersler/Sistem/141044012_HW1_CSE344/example_9216000_9567232/g_128000_150528/s_0_22528/k_5120/5k.txt
+pid:87269 -- 5120 B -- /Users/MacbookPro/Desktop/Dersler/Sistem/141044012_HW1_CSE344/example_9216000_9567232/g_128000_150528/s_0_22528/k_5120
+pid:87268 -- 6148 B -- /Users/MacbookPro/Desktop/Dersler/Sistem/141044012_HW1_CSE344/example_9216000_9567232/g_128000_150528/s_0_22528/.DS_Store
+pid:87270 -- 17408 B -- /Users/MacbookPro/Desktop/Dersler/Sistem/141044012_HW1_CSE344/example_9216000_9567232/g_128000_150528/s_0_22528/o_17408/17k.txt
+pid:87270 -- 17408 B -- /Users/MacbookPro/Desktop/Dersler/Sistem/141044012_HW1_CSE344/example_9216000_9567232/g_128000_150528/s_0_22528/o_17408
+pid:87268 -- 28676 B -- /Users/MacbookPro/Desktop/Dersler/Sistem/141044012_HW1_CSE344/example_9216000_9567232/g_128000_150528/s_0_22528
+pid:87267 -- 19456 B -- /Users/MacbookPro/Desktop/Dersler/Sistem/141044012_HW1_CSE344/example_9216000_9567232/g_128000_150528/19k.txt
+pid:87267 -- 56320 B -- /Users/MacbookPro/Desktop/Dersler/Sistem/141044012_HW1_CSE344/example_9216000_9567232/g_128000_150528/55k.txt
+pid:87267 -- 7168 B -- /Users/MacbookPro/Desktop/Dersler/Sistem/141044012_HW1_CSE344/example_9216000_9567232/g_128000_150528/7k.txt
+pid:87267 -- 162824 B -- /Users/MacbookPro/Desktop/Dersler/Sistem/141044012_HW1_CSE344/example_9216000_9567232/g_128000_150528
+pid:87263 -- 9591824 B -- /Users/MacbookPro/Desktop/Dersler/Sistem/141044012_HW1_CSE344/example_9216000_9567232
+7 child processes created
+pid:88389 -- 9216000 B -- /Users/MacbookPro/Documents/GitHub/LS_implementation/example_9216000_9567232//9000k.txt
+pid:88389 -- 6148 B -- /Users/MacbookPro/Documents/GitHub/LS_implementation/example_9216000_9567232//.DS_Store
+pid:88391 -- 0 B -- /Users/MacbookPro/Documents/GitHub/LS_implementation/example_9216000_9567232//z_101376_200704/gorilla
+pid:88390 -- 6148 B -- /Users/MacbookPro/Documents/GitHub/LS_implementation/example_9216000_9567232//z_101376_200704/.DS_Store
+pid:88392 -- Special File  /Users/MacbookPro/Documents/GitHub/LS_implementation/example_9216000_9567232//z_101376_200704/kat_99328/9000k.txt
+pid:88392 -- 99328 B -- /Users/MacbookPro/Documents/GitHub/LS_implementation/example_9216000_9567232//z_101376_200704/kat_99328/97k.txt
+pid:88392 -- 99328 B -- /Users/MacbookPro/Documents/GitHub/LS_implementation/example_9216000_9567232//z_101376_200704/kat_99328
+pid:88390 -- 101376 B -- /Users/MacbookPro/Documents/GitHub/LS_implementation/example_9216000_9567232//z_101376_200704/99k.txt
+pid:88390 -- 206852 B -- /Users/MacbookPro/Documents/GitHub/LS_implementation/example_9216000_9567232//z_101376_200704
+pid:88393 -- 45056 B -- /Users/MacbookPro/Documents/GitHub/LS_implementation/example_9216000_9567232//g_128000_150528/44k.txt
+pid:88393 -- 6148 B -- /Users/MacbookPro/Documents/GitHub/LS_implementation/example_9216000_9567232//g_128000_150528/.DS_Store
+pid:88395 -- 5120 B -- /Users/MacbookPro/Documents/GitHub/LS_implementation/example_9216000_9567232//g_128000_150528/s_0_22528/k_5120/5k.txt
+pid:88395 -- 5120 B -- /Users/MacbookPro/Documents/GitHub/LS_implementation/example_9216000_9567232//g_128000_150528/s_0_22528/k_5120
+pid:88394 -- 6148 B -- /Users/MacbookPro/Documents/GitHub/LS_implementation/example_9216000_9567232//g_128000_150528/s_0_22528/.DS_Store
+pid:88396 -- 17408 B -- /Users/MacbookPro/Documents/GitHub/LS_implementation/example_9216000_9567232//g_128000_150528/s_0_22528/o_17408/17k.txt
+pid:88396 -- 17408 B -- /Users/MacbookPro/Documents/GitHub/LS_implementation/example_9216000_9567232//g_128000_150528/s_0_22528/o_17408
+pid:88394 -- 28676 B -- /Users/MacbookPro/Documents/GitHub/LS_implementation/example_9216000_9567232//g_128000_150528/s_0_22528
+pid:88393 -- 19456 B -- /Users/MacbookPro/Documents/GitHub/LS_implementation/example_9216000_9567232//g_128000_150528/19k.txt
+pid:88393 -- 56320 B -- /Users/MacbookPro/Documents/GitHub/LS_implementation/example_9216000_9567232//g_128000_150528/55k.txt
+pid:88393 -- 7168 B -- /Users/MacbookPro/Documents/GitHub/LS_implementation/example_9216000_9567232//g_128000_150528/7k.txt
+pid:88393 -- 162824 B -- /Users/MacbookPro/Documents/GitHub/LS_implementation/example_9216000_9567232//g_128000_150528
+pid:88389 -- 9591824 B -- /Users/MacbookPro/Documents/GitHub/LS_implementation/example_9216000_9567232/
+7 child processes created
